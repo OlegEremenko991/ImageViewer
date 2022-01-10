@@ -13,9 +13,11 @@ For the latest changes see the [CHANGELOG](CHANGELOG.md)
 
 ## Install
 
-### Swiftpackage
+### Swift Package Manager
 
-Just add the repository URL in Xcode
+- File > Add Packages > Add Package Dependency
+- Add `https://github.com/OlegEremenko991/ImageViewer`
+- Select branch "main"
 
 ## Sample Usage
 
