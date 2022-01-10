@@ -38,10 +38,6 @@ extension ViewController: GalleryItemsDataSource {
 
 ```
 
-### ImageViewer version vs Swift version.
-
-ImageViewer 6.0 is Swift 5 ready
-
 ## License
 
 ImageViewer is licensed under the MIT License, Version 2.0. See the [LICENSE](LICENSE) file for more info.
