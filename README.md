@@ -1,5 +1,3 @@
-
-[![CI Status](http://img.shields.io/travis/Krisiacik/ImageViewer.svg?style=flat)](https://travis-ci.org/Krisiacik/ImageViewer)
 [![Swift 5.0](https://img.shields.io/badge/Swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift/)
 [![Version](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/)
 [![Platforms iOS](https://img.shields.io/badge/Platforms-iOS-lightgray.svg?style=flat)](https://developer.apple.com/swift/)
