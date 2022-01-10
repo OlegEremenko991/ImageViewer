@@ -20,7 +20,7 @@ Just add the repository URL in Xcode
 
 ## Sample Usage
 
-For a detailed example, see the [Example](https://github.com/OlegEremenko991/ImageViewer/tree/main/Example)!
+For a detailed example, see the [Example](https://github.com/OlegEremenko991/ImageViewer/tree/main/Example)
 
 ```swift
 // Show the ImageViewer with the first item
@@ -41,17 +41,7 @@ extension ViewController: GalleryItemsDataSource {
 
 ### ImageViewer version vs Swift version.
 
-ImageViewer 6.0+ is Swift 5 ready! 🎉
-
-If you use earlier version of Swift - refer to the table below:
-
-| Swift version | ImageViewer version               |
-| ------------- | --------------------------------- |
-| 5.x           | >= 6.0                            |
-| 4.x           | 5.0                               |
-| 3.x           | 4.0                               |
-| 2.3           | 3.1 [⚠️](CHANGELOG.md#version-31) |
-| 2.2           | <= 2.1                            |
+ImageViewer 6.0 is Swift 5 ready
 
 ## License
 
