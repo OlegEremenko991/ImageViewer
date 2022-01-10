@@ -14,21 +14,13 @@ For the latest changes see the [CHANGELOG](CHANGELOG.md)
 
 ## Install
 
-### CocoaPods
+### Swiftpackage
 
-```ruby
-pod 'ImageViewer'
-```
-
-### Carthage
-
-```ruby
-github "Krisiacik/ImageViewer"
-```
+Just add the repository URL in Xcode
 
 ## Sample Usage
 
-For a detailed example, see the [Example](https://github.com/Krisiacik/ImageViewer/tree/master/Example)!
+For a detailed example, see the [Example](https://github.com/OlegEremenko991/ImageViewer/tree/main/Example)!
 
 ```swift
 // Show the ImageViewer with the first item
