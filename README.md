@@ -9,8 +9,6 @@
 
 ![Gallery](https://github.com/Krisiacik/ImageViewer/blob/master/Documentation/gallery.gif)
 
-For the latest changes see the [CHANGELOG](CHANGELOG.md)
-
 ## Install
 
 ### Swift Package Manager
